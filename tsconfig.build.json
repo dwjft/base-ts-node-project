@@ -26,6 +26,8 @@
     "src/**/*",
   ],
   "exclude": [
+    "**/*.test.ts",
+    "**/*.spec.ts",
     "dist",
     "node_modules",
     "types",
